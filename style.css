@@ -1,0 +1,25 @@
+
+.wrapper {
+	background-color: #0a0c1b;
+	margin: 0;
+	padding: 100px;
+}
+
+.main-wrapper {
+	background-color: #1c1938;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	width: 100%;
+	font-family: 'Heebo', sans-serif;;
+	color: #fff;
+	border-radius: 5px;
+}
+
+#left-column {
+	padding: 100px;
+}
+
+.count-details {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
